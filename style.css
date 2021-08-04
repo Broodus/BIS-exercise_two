@@ -1,0 +1,19 @@
+/* CLASS */
+.container {
+    /* formatting */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    /* font */
+    font-family: Gill Sans, sans-serif;
+    font-size: 2vh;
+    font-weight: bold;
+}
+
+/* ID */
+#playButton {
+    height: 12vh;
+    width:  25vh;
+    font-size: 2vh;
+}
